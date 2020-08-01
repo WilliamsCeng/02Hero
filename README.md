@@ -10,7 +10,9 @@ pynq   放到PYNQ-Z2的应用层文件
 files   功能测试：文本文件加解密
 
 images   功能测试：图片加解密
-
+卷 Acer 的文件夹 PATH 列表
+卷序列号为 607B-4D4B
+C:.
 │  README.md
 │  
 ├─hls
