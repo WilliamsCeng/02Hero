@@ -1,59 +1,61 @@
 # 02Hero
-2020å¹´æ–°å·¥ç§‘è”ç›Ÿ-Xilinxæš‘æœŸå­¦æ ¡ï¼ˆSummer Schoolï¼‰é¡¹ç›®
+2020ÄêĞÂ¹¤¿ÆÁªÃË-XilinxÊîÆÚÑ§Ğ££¨Summer School£©ÏîÄ¿
 
-hls    HLSç›¸å…³æ–‡ä»¶
+hls    HLSÏà¹ØÎÄ¼ş
 
-hw   vivadoæ­å»ºç¡¬ä»¶å¹³å°çš„ç›¸å…³æ–‡ä»¶
+hw   vivado´î½¨Ó²¼şÆ½Ì¨µÄÏà¹ØÎÄ¼ş
 
-pynq   æ”¾åˆ°PYNQ-Z2çš„åº”ç”¨å±‚æ–‡ä»¶
+pynq   ·Åµ½PYNQ-Z2µÄÓ¦ÓÃ²ãÎÄ¼ş
 
-files   åŠŸèƒ½æµ‹è¯•ï¼šæ–‡æœ¬æ–‡ä»¶åŠ è§£å¯†
+files   ¹¦ÄÜ²âÊÔ£ºÎÄ±¾ÎÄ¼ş¼Ó½âÃÜ
 
-images   åŠŸèƒ½æµ‹è¯•ï¼šå›¾ç‰‡åŠ è§£å¯†
-
-â”œâ”€hls
-â”‚      aes.cpp
-â”‚      aes.h
-â”‚      aes_test.cpp
-â”‚      directives.tcl
-â”‚      
-â”œâ”€hw
-â”‚  â””â”€bitstream
-â”‚          AES_En_De.bit
-â”‚          AES_En_De.hwh
-â”‚          AES_En_De.tcl
-â”‚          
-â””â”€pynq
-    â””â”€AES_En_De_PYNQ
-        â”‚  AES_En_De_final_demo.ipynb
-        â”‚  sds_trace_data.dat
-        â”‚  
-        â”œâ”€bitstream
-        â”‚      AES_En_De.bit
-        â”‚      AES_En_De.hwh
-        â”‚      AES_En_De.tcl
-        â”‚      readme.md
-        â”‚      
-        â”œâ”€files
-        â”‚      decrypted_encrypted_test.md
-        â”‚      encrypted_test.md
-        â”‚      test.md
-        â”‚      
-        â””â”€images
-            â”œâ”€lena
-            â”‚      decryption_image.jpg
-            â”‚      encryption_image.jpg
-            â”‚      lena.jpg
-            â”‚      original_image.jpg
-            â”‚      
-            â”œâ”€paris
-            â”‚      decryption_image.jpg
-            â”‚      encryption_image.jpg
-            â”‚      original_image.jpg
-            â”‚      paris.jpg
-            â”‚      
-            â””â”€toys
+images   ¹¦ÄÜ²âÊÔ£ºÍ¼Æ¬¼Ó½âÃÜ
+©¦  README.md
+©¦  
+©À©¤hls
+©¦      aes.cpp
+©¦      aes.h
+©¦      aes_test.cpp
+©¦      directives.tcl
+©¦      
+©À©¤hw
+©¦  ©¸©¤bitstream
+©¦          AES_En_De.bit
+©¦          AES_En_De.hwh
+©¦          AES_En_De.tcl
+©¦          
+©¸©¤pynq
+    ©¸©¤AES_En_De_PYNQ
+        ©¦  AES_En_De_final_demo.ipynb
+        ©¦  sds_trace_data.dat
+        ©¦  
+        ©À©¤bitstream
+        ©¦      AES_En_De.bit
+        ©¦      AES_En_De.hwh
+        ©¦      AES_En_De.tcl
+        ©¦      readme.md
+        ©¦      
+        ©À©¤files
+        ©¦      decrypted_encrypted_test.md
+        ©¦      encrypted_test.md
+        ©¦      test.md
+        ©¦      
+        ©¸©¤images
+            ©À©¤lena
+            ©¦      decryption_image.jpg
+            ©¦      encryption_image.jpg
+            ©¦      lena.jpg
+            ©¦      original_image.jpg
+            ©¦      
+            ©À©¤paris
+            ©¦      decryption_image.jpg
+            ©¦      encryption_image.jpg
+            ©¦      original_image.jpg
+            ©¦      paris.jpg
+            ©¦      
+            ©¸©¤toys
                     decryption_image.jpg
                     encryption_image.jpg
                     original_image.jpg
                     toys.jpg
+                    
